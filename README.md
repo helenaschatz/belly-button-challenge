@@ -3,7 +3,7 @@
 
 
 ## Deployment
-* Here is a link to the dashboard: https://olenafedorenko.github.io/belly-button-challenge/
+* Here is a link to the dashboard: https://helenaschatz.github.io/belly-button-challenge/
 
 ## Background
 In this assignment, you will build an interactive dashboard to explore the [Belly Button Biodiversity dataset](https://helenaschatz.github.io/belly-button-challenge/), which catalogs the microbes that colonize human navels.
