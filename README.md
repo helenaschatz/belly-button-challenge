@@ -1,6 +1,7 @@
 # Belly Button Biodiversity Dashboard
 
-
+ Utilizing JavaScript, HTLM, Python, D3 library to read json files, build an interactive dashboard to explore the Belly Button Biodiversity dataset, which catalogs the microbes that colonize human navels. 
+ App is deployed to a static page hosting service, such as GitHub Pages.
 
 ## Deployment
 * Here is a link to the dashboard: https://helenaschatz.github.io/belly-button-challenge/
